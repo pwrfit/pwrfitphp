@@ -92,7 +92,7 @@ if (isset($_POST['registrar'])) {
                            <div class="row">
                               <div class="col-md-6">
                                  <div class="mb-3">
-                                    <label class="form-label">Nombres <span class="text-danger">*</span></label>
+                                    <label class="form-label">Nombress <span class="text-danger">*</span></label>
                                     <div class="form-icon position-relative">
                                        <i class="fa-regular input fa-user"></i>
                                        <input type="text" name="nombres" class="form-control ps-5" value="<?php echo $nombres; ?>" placeholder="Juan" required>
